@@ -1,4 +1,4 @@
-# Skills
+# **Skills**
 
 Below is a list of my skills
 
@@ -8,7 +8,7 @@ Below is a list of my skills
 - HTML
 - CSS
 
-## Framworks
+## _Frameworks_
 - Bootstrap
 
 ## Soft Skills
